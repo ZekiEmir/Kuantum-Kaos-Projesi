@@ -1,6 +1,6 @@
 # Kuantum Kaos Yönetimi
 Bu proje, Omega Sektöründeki Kuantum Veri Ambarı'nın simülasyonunu içeren bir projedir. 
-# Proje Hakkında Bu simülasyon, evrenin en kararsız seçimleri (Veri Paketleri, Karanlık Madde ve Anti Madde) analiz eden ve stabilitelerini yönetilen bir otomasyon sistemidir. 
+Proje Hakkında Bu simülasyon, evrenin en kararsız seçimleri (Veri Paketleri, Karanlık Madde ve Anti Madde) analiz eden ve stabilitelerini yönetilen bir otomasyon sistemidir. 
 
 Proje aşağıdaki 4 farklı programlama ayrıntıları ayrı ayrı kodlanmıştır: 
 1. C#
